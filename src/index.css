@@ -12,7 +12,7 @@ li {
 
 li a {
   display: block;
-  color: rgb(214, 170, 170);
+  color: rgb(196, 181, 181);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -20,7 +20,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #1a4737;
+  background-color: #2bd197;
 } .active {
   background-color: #04aa0c;
 }
